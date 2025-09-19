@@ -30,7 +30,7 @@ Este projeto é um **simulador de piano totalmente funcional** desenvolvido para
 ## 📌 Como Rodar
 1. Clone este repositório:
 ```bash
-git clone <URL_DO_SEU_REPOSITORIO>
+git clone <https://github.com/MatheusJesus037/Simulador-de-Piano.git>
 Abra o arquivo index.html no navegador.
 
 Clique nas teclas ou use o teclado para tocar o piano.
@@ -38,7 +38,7 @@ Clique nas teclas ou use o teclado para tocar o piano.
 👨‍💻 Autor
 Nome: Matheus Costa de Jesus
 
-GitHub: SeuPerfil
+GitHub: https://github.com/MatheusJesus037
 
 📝 Licença
 Este projeto é de uso educacional, sem fins comerciais.
